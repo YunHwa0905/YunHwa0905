@@ -1,104 +1,80 @@
-<!--타이틀 부분-->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=Venom&color=0:43cea2,100:185a9d&height=300&section=header&text=YunHwa's%0AGithub&fontSize=90&fontColor=FFFFFF" />
-</div>
+# 안녕하세요, 이윤화입니다 👋
 
-<!--Tech Stack-->
-<h3 align="center">✨ Tech Stack ✨</h3>
+**Java / Python Backend Developer**  
+LLM 서비스 개발 · RAG 파이프라인 · MSA 아키텍처
 
-<div align="center">
-  <img src="https://img.shields.io/badge/java-007396.svg?style=for-the-badge&logo=openjdk&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/springboot-6DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/spring-6DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/python-3670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54" />&nbsp
-  <img src="https://img.shields.io/badge/fastapi-009688.svg?style=for-the-badge&logo=fastapi&logoColor=white" />&nbsp
-</div>
+---
 
-<br>
+```yaml
+name     : 이윤화 (YunHwa)
+role     : Backend Developer (Java / Python)
+focus    : LLM Serving · RAG · Hybrid Search · MSA
+stack    : [Java, Spring, Python, FastAPI, OpenSearch, MySQL, Docker, AWS]
+cert     : SQLD 취득 · 정보처리기사 실기 준비중
+edu      : 신한대학교 소프트웨어융합학과 졸업 
+bootcamp : SK Shieldus Rookies **'지능형 애플리케이션 개발자 양성 과정'**수료
+blog     : velog.io/@yun0905  (90+ posts)
+contact  : yoho030905@gmail.com
+```
 
-<div align="center">
-  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/postgresql-336791.svg?style=for-the-badge&logo=postgresql&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/redis-DC382D.svg?style=for-the-badge&logo=redis&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/elasticsearch-005571.svg?style=for-the-badge&logo=elasticsearch&logoColor=white" />&nbsp
-</div>
+---
 
-<br>
+## 🙋 About Me
 
-<div align="center">
-  <img src="https://img.shields.io/badge/amazonaws-232F3E.svg?style=for-the-badge&logo=amazonaws&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/githubactions-2088FF.svg?style=for-the-badge&logo=githubactions&logoColor=white" />&nbsp
-</div>
+-  AI 모델을 실제 서비스에 연결하는 백엔드 개발자를 목표로 합니다.
+-  법률 AI 상담 서비스 **LexAI** 개발 — BM25+kNN 하이브리드 검색, Ollama GGUF 서빙, 4단계 나이맞춤 프롬프팅
+-  **AI_WAWA** — librosa 기반 5개 지표 발음 분석, ElevenLabs Voice ID 캐싱, CI/CD로 배포 15분 → 3분
+-  **STARS** — Spring Boot MSA + AWS EKS + SSE 스트리밍, 34개 API 설계 (12인 팀)
+- 📝 학습한 내용을 꾸준히 글로 남깁니다. [Velog 90+편](https://velog.io/@yun0905/posts)
 
-<br>
+---
 
-<!--Studying-->
-<h3 align="center">📚 Studying 📚</h3>
-<div align="center">
-  <img src="https://img.shields.io/badge/apachekafka-231F20.svg?style=for-the-badge&logo=apachekafka&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/langchain-1C3C3C.svg?style=for-the-badge&logo=langchain&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/mybatis-000000.svg?style=for-the-badge&logo=mybatis&logoColor=white" />&nbsp
-</div>
+## 🔭 Currently Working On
 
-<br>
+| 프로젝트 | 설명 | 스택 |
+|---------|------|------|
+| **LexAI** | 나이맞춤형 법률 AI 상담 서비스 (RAG + 하이브리드 검색) | FastAPI · Spring Legacy · OpenSearch · MySQL |
+| **ETL Pipeline** | 주식 데이터 자동 수집·저장 파이프라인 | Python · KIS API · MySQL · Crontab |
+| **Algorithm** | Programmers / 백준 Java 풀이 | Java |
 
-<!--Tools-->
-<h3 align="center">🛠 Tools 🛠</h3>
-<div align="center">
-  <img src="https://img.shields.io/badge/VSCode-2C2C32.svg?style=for-the-badge&logo=visual-studio-code&logoColor=22ABF3" />&nbsp
-  <img src="https://img.shields.io/badge/eclipse-2C2255.svg?style=for-the-badge&logo=eclipse&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/intellijidea-000000.svg?style=for-the-badge&logo=intellijidea&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/spring-6DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" />&nbsp
-</div>
+---
 
-<br>
+## ✨ Tech Stack
 
-<div align="center">
-  <img src="https://img.shields.io/badge/postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />&nbsp
-</div>
+**주력**
 
-<br>
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![OpenSearch](https://img.shields.io/badge/OpenSearch-005EB8?style=flat-square&logo=opensearch&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
-<div align="center">
-  <img src="https://img.shields.io/badge/mobaxterm-000000.svg?style=for-the-badge&logo=windows-terminal&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/jupyter-2C2C32.svg?style=for-the-badge&logo=jupyter&logoColor=F37726" />&nbsp
-</div>
+**학습 중**
 
-<br>
+![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![MyBatis](https://img.shields.io/badge/MyBatis-000000?style=flat-square&logoColor=white)
 
-<!--GitHub Stats-->
-<h3 align="center">📊 GitHub Stats 📊</h3>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YunHwa0905&show_icons=true&hide_border=true&bg_color=0d1117&title_color=43cea2&icon_color=43cea2&text_color=ffffff" />
-</div>
+---
 
-<br>
+## 📊 GitHub Stats
 
-<!--Top Languages-->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YunHwa0905&layout=compact&hide_border=true&bg_color=0d1117&title_color=43cea2&text_color=ffffff" />
-</div>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YunHwa0905&show_icons=true&hide_border=true&bg_color=ffffff&title_color=43cea2&icon_color=43cea2&text_color=333333)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YunHwa0905&layout=compact&hide_border=true&bg_color=ffffff&title_color=43cea2&text_color=333333)
 
-<br>
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=YunHwa0905&hide_border=true&background=ffffff&ring=43cea2&fire=185a9d&currStreakLabel=43cea2&sideLabels=333333&dates=555555&currStreakNum=333333&sideNums=333333)
 
-<!--Streak-->
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YunHwa0905&hide_border=true&background=0d1117&ring=43cea2&fire=185a9d&currStreakLabel=43cea2&sideLabels=ffffff&dates=ffffff&currStreakNum=ffffff&sideNums=ffffff" />
-</div>
+---
 
-<br>
+## 📫 Contact
 
-<!--Contact-->
-<h3 align="center">📫 Contact 📫</h3>
-<div align="center">
-  <a href="https://velog.io/@yun0905/posts">
-    <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />&nbsp
-  </a>
-  <a href="mailto:yoho030905@gmail.com">
-    <img src="https://img.shields.io/badge/yoho030905@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />&nbsp
-  </a>
-</div>
+[![Velog](https://img.shields.io/badge/Velog%20(90%2B%20Posts)-1EBC8F?style=flat-square&logo=velog&logoColor=white)](https://velog.io/@yun0905/posts)
+[![Gmail](https://img.shields.io/badge/yoho030905@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:yoho030905@gmail.com)
