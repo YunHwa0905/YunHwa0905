@@ -12,7 +12,7 @@ focus    : LLM Serving · RAG · Hybrid Search · MSA
 stack    : [Java, Spring, Python, FastAPI, OpenSearch, MySQL, Docker, AWS]
 cert     : SQLD 취득 · 정보처리기사 실기 준비중
 edu      : 신한대학교 소프트웨어융합학과 졸업 
-bootcamp : SK Shieldus Rookies **'지능형 애플리케이션 개발자 양성 과정'**수료
+bootcamp : SK Shieldus Rookies '지능형 애플리케이션 개발자 양성 과정' 수료
 blog     : velog.io/@yun0905  (90+ posts)
 contact  : yoho030905@gmail.com
 ```
