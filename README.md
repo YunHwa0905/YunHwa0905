@@ -67,8 +67,8 @@ contact  : yoho030905@gmail.com
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YunHwa0905&show_icons=true&hide_border=true&bg_color=ffffff&title_color=43cea2&icon_color=43cea2&text_color=333333)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YunHwa0905&layout=compact&hide_border=true&bg_color=ffffff&title_color=43cea2&text_color=333333)
+![GitHub Stats](https://github-readme-stats-seven-steel-72.vercel.app/api?username=YunHwa0905&show_icons=true&hide_border=true&bg_color=ffffff&title_color=43cea2&icon_color=43cea2&text_color=333333)
+![Top Langs](https://github-readme-stats-seven-steel-72.vercel.app/api/top-langs/?username=YunHwa0905&layout=compact&hide_border=true&bg_color=ffffff&title_color=43cea2&text_color=333333)
 
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=YunHwa0905&hide_border=true&background=ffffff&ring=43cea2&fire=185a9d&currStreakLabel=43cea2&sideLabels=333333&dates=555555&currStreakNum=333333&sideNums=333333)
 
